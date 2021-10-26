@@ -56,11 +56,14 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Autodestroy.cs" />
     <Compile Include="Assets\Scripts\CanonControl.cs" />
     <Compile Include="Assets\Scripts\JuliaControl.cs" />
+    <Compile Include="Assets\Scripts\EnemyManagerC.cs" />
+    <Compile Include="Assets\Scripts\SceneControl.cs" />
     <Compile Include="Assets\Scripts\CookiesControl.cs" />
     <Compile Include="Assets\Scripts\JarControl.cs" />
-    <Compile Include="Assets\Scripts\Autodestroy.cs" />
+    <Compile Include="Assets\Scripts\MenuControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

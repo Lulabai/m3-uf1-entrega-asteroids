@@ -70,6 +70,8 @@ m_PackageAssets:
         - 1.11.2
         - 1.12.5
         - 1.13.5
+        - 1.14.1
+        - 1.15.1
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -83,9 +85,15 @@ m_PackageAssets:
         compatible:
         - 1.5.7
         - 1.6.0
+        - 1.7.1
         - 1.8.0
+        - 1.9.0
         - 1.10.2
+        - 1.11.2
         - 1.12.5
+        - 1.13.5
+        - 1.14.1
+        - 1.15.1
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -452,8 +460,6 @@ m_PackageAssets:
         - 1.1.29
         - 1.1.30
         compatible:
-        - 1.1.24
-        - 1.1.26
         - 1.1.27
         - 1.1.29
         - 1.1.30
@@ -734,12 +740,14 @@ m_PackageAssets:
         - 1.5.4
         - 1.5.5
         - 1.5.6
+        - 1.5.7
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         - 1.6.0-pre.4
         - 1.6.0-pre.5
         - 1.6.1
         - 1.6.2
+        - 1.6.3
         compatible:
         - 1.4.8
         - 1.5.0-pre.2
@@ -755,12 +763,14 @@ m_PackageAssets:
         - 1.5.4
         - 1.5.5
         - 1.5.6
+        - 1.5.7
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         - 1.6.0-pre.4
         - 1.6.0-pre.5
         - 1.6.1
         - 1.6.2
+        - 1.6.3
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
@@ -2721,4 +2731,4 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: C:/Users/Lourdes/Documents/m3-uf1-entrega-asteroids/AsteroidsLourdesSM/Packages
-m_EditorVersion: 2020.3.12f1 (b3b2c6512326)
+m_EditorVersion: 2020.3.14f1 (d0d1bb862f9d)
